@@ -1,0 +1,8 @@
+project:
+  type: website
+  title: "lab-10: Distances and the Border Zone"
+  output-dir: docs
+
+format:
+  html:
+    self-contained: true

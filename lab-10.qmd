@@ -2,6 +2,8 @@
 title: "lab-10: Distances and the Border Zone"
 author: "Eleanor Lindsey"
 format: html
+execute:
+  echo: true
 editor: visual
 ---
 
